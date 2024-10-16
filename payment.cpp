@@ -3,12 +3,11 @@
 
 using namespace std;
 
-// Function to simulate payment gateway
 void paymentGateway() {
     string paymentMethod;
     string cardNumber;
     string cvv;
-    double balance = 10000.0;  // Example account balance
+    double balance = 10000.0; 
     double amount;
 
     cout << "Welcome to the Payment Gateway\n";
