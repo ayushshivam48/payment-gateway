@@ -1,4 +1,5 @@
 # payment-gateway
+
 ### Detailed Description of the Payment Gateway Simulation in C++
 
 The Payment Gateway Simulation is a basic C++ program designed to mimic the core functionalities of a real payment gateway system. In this simplified version, users can select a payment method (Credit Card, Debit Card, or NetBanking) and proceed to enter necessary information like card details or net banking credentials. The system verifies the available balance and processes the transaction if the balance is sufficient. While this is not a real payment gateway (which would require secure communication with banking APIs, encryption, and more), this simulation demonstrates how key features of a payment system work in a straightforward and illustrative way.
